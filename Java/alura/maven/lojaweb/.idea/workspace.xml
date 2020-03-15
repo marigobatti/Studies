@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2abbd968-0d63-4ee5-b4d8-7befe7548caf" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1U99IQkc2TdqXvhS9n1gkWrlsrc" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="JAVA" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2abbd968-0d63-4ee5-b4d8-7befe7548caf" name="Default Changelist" comment="" />
+      <created>1574757863045</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1574757863045</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="464" y="154" key="SettingsEditor" timestamp="1584244443977">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="464" y="154" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1584244443977" />
+    <state x="636" y="117" width="647" height="804" key="find.popup" timestamp="1584244351272">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="636" y="117" width="647" height="804" key="find.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584244351272" />
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup" timestamp="1584244336861">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="228" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040@0.0.1920.1040" timestamp="1584244336861" />
+  </component>
+</project>
